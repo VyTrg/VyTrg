@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Trương Thị Tường Vy
 
 I'm currently a **third-year student majoring in Information Technology** at the **Posts and Telecommunications Institute of Technology (PTIT), Ho Chi Minh City Campus**.  
-With a strong passion for *Web Development**,  I am actively building a solid technical foundation through academic projects, self-learning, and collaborative work.
+With a strong passion for **Web Development**,  I am actively building a solid technical foundation through academic projects, self-learning, and collaborative work.
 
 ---
 

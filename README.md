@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Trương Thị Tường Vy
 
 I'm currently a **third-year student majoring in Information Technology** at the **Posts and Telecommunications Institute of Technology (PTIT), Ho Chi Minh City Campus**.  
-With a strong passion for **Artificial Intelligence, Web Development**, and **Cybersecurity**, I am actively building a solid technical foundation through academic projects, self-learning, and collaborative work.
+With a strong passion for *Web Development**,  I am actively building a solid technical foundation through academic projects, self-learning, and collaborative work.
 
 ---
 
@@ -57,6 +57,6 @@ This journal reflects my habit of continuous growth and a passion for self-drive
 ## 📫 Connect with Me
 
 - 🔗 Email: vytruong03.it.com
-- 🌐 Linkedin: [(https://www.linkedin.com/in/vy-truong-95119a257/)](https://www.linkedin.com/in/vy-truong-95119a257/)
+- 🌐 Linkedin: [https://www.linkedin.com/in/vy-truong-95119a257/](https://www.linkedin.com/in/vy-truong-95119a257/)
 
 

@@ -56,7 +56,7 @@ This journal reflects my habit of continuous growth and a passion for self-drive
 
 ## 📫 Connect with Me
 
-- 🔗 Email: vytruong03.it.com
+- 🔗 Email: tuongvy03.it@gmail.com
 - 🌐 Linkedin: [https://www.linkedin.com/in/vy-truong-95119a257/](https://www.linkedin.com/in/vy-truong-95119a257/)
 
 

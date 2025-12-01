@@ -14,7 +14,7 @@ With a strong passion for **Web Development**,  I am actively building a solid t
 - Spring boot, ReactJS, ExpressJS,...
 
 ### 🔹 Tools & Technologies:
-- Git, SQL Server, Postgresql
+- Git, SQL Server, PostgreSQL
 
 ### 🔹 Others:
 - Latex, Zotero
@@ -41,16 +41,12 @@ Key features:
 
 ## 📚 Learning Journal
 
-I actively maintain a personal learning journal where I document:
-- Blockchain and crypto
 
-This journal reflects my habit of continuous growth and a passion for self-driven learning.  
-*Access available upon request.*
 
 ---
 
 ## 🌱 Currently Learning
-- Blockchain and Healthy Care data
+
 
 ---
 

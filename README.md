@@ -24,7 +24,7 @@ Gym • Running • Eeting • Movie/TV show
 </p>
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=VyTrg)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=VyTrg)](https://git.io/streak-stats)
 
 
 

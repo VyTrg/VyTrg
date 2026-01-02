@@ -37,11 +37,6 @@
 ---
 
 ### 📊 My GitHub Stats
-<p>
-  <img src="https://streak-stats.demolab.com?user=VyTrg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=VyTrg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 </div>

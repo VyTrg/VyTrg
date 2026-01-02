@@ -37,7 +37,9 @@
 ---
 
 ### 📊 My GitHub Stats
-<img src="https://streak-stats.demolab.com/?user=VyTrg" />
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=VyTrg&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+</p>
 
 
 </div>

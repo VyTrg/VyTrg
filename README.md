@@ -1,7 +1,4 @@
-## Hey there, I'm Vy
-
-> Full-time Debugger | Part-time Philosopher
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hello+I%27m+Vy;I+am+fulltime+a+moralizer;I+am+a+partime+debugger)
 ---
 
 ### What I work with

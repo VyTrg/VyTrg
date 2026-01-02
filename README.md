@@ -1,14 +1,25 @@
+<div align="center">
+
+# 💫 About Me
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hello+I%27m+Vy;I+am+a+fulltime+moralizer;I+am+a+partime+debugger)
+
 ---
 
-### What I work with
-`TypeScript` `Java` `PostgreSQL` `SQLServer` `Spring Boot` 
+### 🛠 What I work with
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLServer-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+</p>
 
-### What I'm learning
-`How to use brain` 
+### 🧠 What I'm learning
+<img src="https://img.shields.io/badge/How_to_use_brain-blueviolet?style=flat-square&logo=discovery&logoColor=white" />
 
-### When I'm not coding
-Gym • Running • Eeting • Movie/TV show
+### 🏃 When I'm not coding
+**Gym** • **Running** • **Eating** • **Movies/TV Shows**
 
 ### 📫 Find me
 <p>
@@ -24,7 +35,13 @@ Gym • Running • Eeting • Movie/TV show
 </p>
 
 ---
-![GitHub Streak](https://streak-stats.demolab.com?user=VyTrg)](https://git.io/streak-stats)
 
+### 📊 My GitHub Stats
+<p>
+  <img src="https://streak-stats.demolab.com?user=VyTrg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=VyTrg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-
+</div>

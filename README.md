@@ -17,7 +17,7 @@
 
 ### What I'm learning
 <img src="https://img.shields.io/badge/How_to_use_brain-blueviolet?style=flat-square&logo=discovery&logoColor=white" />
-<img src="https://img.shields.io/badge/Handwired?style=flat-square&logo=discovery&logoColor=black" />
+<img src="https://img.shields.io/badge/Handwired-black?style=flat-square&logo=microchip&logoColor=white" />
 
 ### When I'm not coding
 `Gym` • `Running` • `Eating` • `Movies/TV Shows`

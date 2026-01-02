@@ -1,12 +1,12 @@
-<div align="center">
+<div>
 
-# 💫 About Me
+# About Me
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hello+I%27m+Vy;I+am+a+fulltime+moralizer;I+am+a+partime+debugger)
 
 ---
 
-### 🛠 What I work with
+### What I work with
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -15,13 +15,13 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
 </p>
 
-### 🧠 What I'm learning
+### What I'm learning
 <img src="https://img.shields.io/badge/How_to_use_brain-blueviolet?style=flat-square&logo=discovery&logoColor=white" />
 
-### 🏃 When I'm not coding
-**Gym** • **Running** • **Eating** • **Movies/TV Shows**
+### When I'm not coding
+`Gym` • `Running` • `Eating` • `Movies/TV Shows`
 
-### 📫 Find me
+### Find me
 <p>
   <a href="mailto:tuongvy03.it@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=VyTrg&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </p>

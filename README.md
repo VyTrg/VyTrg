@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Handwired-black?style=flat-square&logo=microchip&logoColor=white" />
 
 ### When I'm not coding
-`Gym` • `Running` • `Eating` • `Movies/TV Shows`
+`Gym` • `Running` • `Hốc` • `Movies/TV Shows`
 
 ### Find me
 <p>

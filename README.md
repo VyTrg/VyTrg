@@ -37,10 +37,11 @@
 
 ---
 
-### My GitHub Stats
+### My Stats
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=VyTrg&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=VyTrg&theme=github_dark&graph=true&languages=true&streak=false&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </p>
+#![LeetCode Stats](https://leetcard.jacoblin.cool/user0646dl?theme=dark&font=Shippori%20Mincho%20B1)
 </div>
 
 ---

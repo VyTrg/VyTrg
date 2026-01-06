@@ -39,9 +39,9 @@
 
 ### My Stats
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=VyTrg&theme=github_dark&graph=true&languages=true&streak=false&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=VyTrg&theme=github_dark&graph=true&languages=true&streak=false&stats=true&header=false&summary=false&profile=false" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/user0646dl?theme=dark&font=Shippori%20Mincho%20B1" width="48%" />
 </p>
-#![LeetCode Stats](https://leetcard.jacoblin.cool/user0646dl?theme=dark&font=Shippori%20Mincho%20B1)
 </div>
 
 ---

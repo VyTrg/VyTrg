@@ -6,7 +6,7 @@
 
 ---
 
-[!Dotfiles](https://github.com/VyTrg/dotfiles)
+[Dotfiles](https://github.com/VyTrg/dotfiles)
 
 ### What I work with
 <p>

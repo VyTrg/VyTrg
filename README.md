@@ -22,6 +22,9 @@
 <img src="https://img.shields.io/badge/Handwired-black?style=flat-square&logo=microchip&logoColor=white" />
 <img src="https://img.shields.io/badge/Design--Pattern-006b3e?style=flat-square&logo=gitbook&logoColor=white" />
 
+### Next Goal
+`5km Running`
+
 ### When I'm not coding
 `Gym` • `Running` • `Hốc` • `Movies/TV Shows`
 

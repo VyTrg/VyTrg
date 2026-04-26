@@ -3,7 +3,14 @@
 # About Me
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hello+I%27m+Vy;I+am+a+fulltime+moralizer;I+am+a+partime+debugger)
-
+ ______________
+< hello world! >
+ --------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ---
 
 [Dotfiles](https://github.com/VyTrg/dotfiles)

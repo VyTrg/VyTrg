@@ -4,7 +4,7 @@
 
  ```
 ______________
-< I am a deugger! >
+< Hi! My name is VY >
  --------------
         \   ^__^
          \  (oo)\_______
@@ -12,9 +12,14 @@ ______________
                 ||----w |
                 ||     ||
 ```
+
+I am a Backend Developer with mainly Java Spring Boot, but in this time I am trying NestJS. 
+
 ---
 
-[Dotfiles](https://github.com/VyTrg/dotfiles)
+[Dotfiles](https://github.com/VyTrg/dotfiles) 
+
+I am doing implementation on NixOS, hope new dotfiles will be completed.
 
 ### What I work with
 <p>
@@ -25,17 +30,6 @@ ______________
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
 </p>
-
-### What I'm learning
-<img src="https://img.shields.io/badge/How_to_use_brain-blueviolet?style=flat-square&logo=discovery&logoColor=white" />
-<img src="https://img.shields.io/badge/Handwired-black?style=flat-square&logo=microchip&logoColor=white" />
-<img src="https://img.shields.io/badge/Design--Pattern-006b3e?style=flat-square&logo=gitbook&logoColor=white" />
-
-### Next Goal
-`5km Running`
-
-### When I'm not coding
-`Gym` • `Running` • `Hốc` • `Movies/TV Shows`
 
 ### Find me
 <p>
@@ -58,8 +52,3 @@ ______________
   <img src="https://leetcard.jacoblin.cool/user0646dl?theme=dark&font=Shippori%20Mincho%20B1" width="48%" />
 </p>
 </div>
-
----
-
-### I like this gif :)
-<img src="https://i.imgur.com/tzYKRfd.gif">

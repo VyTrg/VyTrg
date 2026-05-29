@@ -19,7 +19,6 @@ I am a Backend Developer with mainly Java Spring Boot, but in this time I am try
 
 [Dotfiles](https://github.com/VyTrg/dotfiles) 
 
-I am doing implementation on Fedora, hope new dotfiles will be completed.
 
 ### What I work with
 <p>

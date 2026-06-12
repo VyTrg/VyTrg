@@ -13,7 +13,7 @@ ______________
                 ||     ||
 ```
 
-I am a Backend Developer with mainly Java Spring Boot, but in this time I am trying NestJS. 
+I am playing as a 'Workaholic' person ✌️
 
 ---
 

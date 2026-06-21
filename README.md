@@ -17,7 +17,7 @@ I am playing as a 'Workaholic' person ✌️
 
 ---
 
-[Dotfiles](https://github.com/VyTrg/dotfiles) 
+[I use fedora btw](https://github.com/VyTrg/dotfiles) 
 
 
 ### What I work with

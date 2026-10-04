@@ -18,7 +18,7 @@ I am playing as a 'Workaholic' person ✌️
 ---
 
 [I use fedora btw](https://github.com/VyTrg/dotfiles) 
-
+[I am working on helix keymaps in Lazyvim](https://github.com/VyTrg/helix.nvim) 
 
 ### What I work with
 <p>

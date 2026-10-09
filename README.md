@@ -21,11 +21,6 @@ I am playing as a 'Workaholic' person ✌️
 
 [I am working on helix keymaps in Lazyvim](https://github.com/VyTrg/helix.nvim) 
 
-
-<p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VyTrg&theme=default" />
-</p>
-
 ### What I work with
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />

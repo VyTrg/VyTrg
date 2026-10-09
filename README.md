@@ -21,7 +21,10 @@ I am playing as a 'Workaholic' person ✌️
 
 [I am working on helix keymaps in Lazyvim](https://github.com/VyTrg/helix.nvim) 
 
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VyTrg&theme=default
+
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VyTrg&theme=default" />
+</p>
 
 ### What I work with
 <p>

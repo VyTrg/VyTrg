@@ -2,13 +2,13 @@
 
 # About Me
 
-I'm Vy, I am <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">-ing
+I'm Vy, I am <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">-ing
 
 ---
 
 [I use fedora btw](https://github.com/VyTrg/dotfiles)
 
-[I am working on helix keymaps in Lazyvim](https://github.com/VyTrg/helix.nvim) <img src="https://media.giphy.com/media/Ol2yHMEFJdYEo/giphy.gif" width="30">
+[I am working on helix keymaps in Lazyvim](https://github.com/VyTrg/helix.nvim) <img src="https://media.giphy.com/media/Ol2yHMEFJdYEo/giphy.gif" width="50">
 
 ### Find me
 <p>

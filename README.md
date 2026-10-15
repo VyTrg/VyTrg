@@ -13,7 +13,7 @@ ______________
                 ||     ||
 ```
 
-I am playing as a 'Workaholic' person ✌️
+I am playing as a 'Workaholic' person <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ---
 

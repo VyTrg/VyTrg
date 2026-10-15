@@ -2,34 +2,13 @@
 
 # About Me
 
- ```
-______________
-< Hi! My name is VY >
- --------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
-
-I am playing as a 'Workaholic' person <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm Vy, I am <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">-ing
 
 ---
 
 [I use fedora btw](https://github.com/VyTrg/dotfiles)
 
-[I am working on helix keymaps in Lazyvim](https://github.com/VyTrg/helix.nvim) 
-
-### What I work with
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLServer-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-</p>
+[I am working on helix keymaps in Lazyvim](https://github.com/VyTrg/helix.nvim) <img src="https://media.giphy.com/media/Ol2yHMEFJdYEo/giphy.gif" width="30">
 
 ### Find me
 <p>
